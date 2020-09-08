@@ -1,12 +1,5 @@
 
 
-
-%Hady Raed Mahmoud : 20175019
-%Mohamed Hussein Mohamed : 20176025
-%Hassan Khaled : 20176010
-%Abdelrahman Gamal Hussein : 20175009
-%Fatma Hesham Ahmed : 20176019
-
 dim([3,3]).
 nextplayer(human,computer).
 nextplayer(computer,human).
